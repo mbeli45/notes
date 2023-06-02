@@ -53,7 +53,8 @@ const Footer = () => {
 
         <div className="copyRight">
             <h3>@copyright MN 2023</h3>
-        </div>
+        </div> 
+        /*a omment*/
       </div>
     );
 }
